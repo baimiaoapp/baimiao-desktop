@@ -26,3 +26,13 @@
 版本发布：[RELEASES.md](RELEASES.md)
 
 下载地址：[macOS](https://cdn.desktop.baimiaoapp.com/updater/download/latest/baimiao_universal.dmg) | [Windows](https://cdn.desktop.baimiaoapp.com/updater/download/latest/baimiao.msi)
+
+
+## 截图
+<div align="center" >
+  <img src="./screenshots/main.png" width="99%" />
+  <img src="./screenshots/quick.png" width="99%" />
+  <img src="./screenshots/settings-1.png" width="99%" />
+  <img src="./screenshots/settings-2.png" width="99%" />
+  <img src="./screenshots/settings-3.png" width="99%" />
+</div>
