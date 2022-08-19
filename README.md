@@ -1,6 +1,6 @@
 # 白描桌面版
 
-白描桌面版是基于 [Tauri](https://github.com/tauri-apps/tauri) 实现的跨平台 OCR 软件，目前支持 Windows 7+ 和 macOS 10.15+，与 [白描 App](https://baimiao.uzero.cn/) 手机端、网页端会员账号通用。
+白描桌面版是基于 [Tauri](https://github.com/tauri-apps/tauri) 实现的跨平台 OCR 软件，目前支持 Windows 7+ 和 macOS 10.13+，与 [白描 App](https://baimiao.uzero.cn/) 手机端、网页端会员账号通用。
 
 ## Features
 
@@ -17,6 +17,10 @@
 - 离线文字识别（macOS）
 - 本地服务器模式提供 API 访问（macOS）
 
+## 已知问题
+
+- [ ] Win7 下截图无法正常使用
+- [ ] Win7 下托盘菜单可能出乱码
 
 
 ## Links
