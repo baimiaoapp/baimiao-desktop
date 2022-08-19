@@ -20,7 +20,7 @@
 ## 已知问题
 
 - [ ] Win7 下截图无法正常使用
-- [ ] Win7 下托盘菜单可能出乱码
+- [ ] Win7 下托盘菜单可能出乱码 [tauri-apps/tauri#4966](https://github.com/tauri-apps/tauri/issues/4966)
 
 
 ## Links
