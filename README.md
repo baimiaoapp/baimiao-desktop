@@ -1,6 +1,6 @@
 # 白描桌面版
 
-白描桌面版是基于 [Tauri](https://github.com/tauri-apps/tauri) 实现的跨平台 OCR 软件，目前支持 Windows 7+<sup>1</sup> 和 macOS 10.13+，与 [白描 App](https://baimiaoapp.com/) 手机端、网页端会员账号通用。
+白描桌面版是基于 [Tauri](https://github.com/tauri-apps/tauri) 实现的跨平台 OCR 软件，目前支持 Windows 7+ 和 macOS 10.15+，与 [白描 App](https://baimiaoapp.com/) 手机端、网页端会员账号通用。
 
 \* _Windows 下截图功能依赖 [Microsoft .NET Framework 4](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)_  \
 \* _Windows 下 Tauri 框架依赖 [Microsoft Edge WebView2](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/)_
@@ -27,7 +27,7 @@
 
 版本发布：[RELEASES.md](RELEASES.md)
 
-下载地址：[macOS](https://cdn.desktop.baimiaoapp.com/updater/download/latest/baimiao_universal.dmg) | [Windows](https://cdn.desktop.baimiaoapp.com/updater/download/latest/baimiao.msi)
+下载地址：[macOS](https://cdn.desktop.baimiaoapp.com/updater/download/latest/baimiao_universal.dmg) | [Windows](https://cdn.desktop.baimiaoapp.com/updater/download/latest/baimiao_windows.zip)
 
 
 ## 截图
